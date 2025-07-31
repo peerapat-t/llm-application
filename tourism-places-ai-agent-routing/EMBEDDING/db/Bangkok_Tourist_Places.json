@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Grand Palace",
+    "type": "Palace",
+    "district": "Phra Nakhon",
+    "description": "Historic royal residence with temples and museums.Historic royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museumsHistoric royal residence with temples and museums",
+    "coordinates": {
+      "lat": 13.75,
+      "lng": 100.4913
+    }
+  },
+  {
+    "name": "Wat Phra Kaew",
+    "type": "Temple",
+    "district": "Phra Nakhon",
+    "description": "Temple of the Emerald Buddha inside the Grand Palace complex.",
+    "coordinates": {
+      "lat": 13.7516,
+      "lng": 100.4928
+    }
+  },
+  {
+    "name": "Wat Arun",
+    "type": "Temple",
+    "district": "Bangkok Yai",
+    "description": "Temple of Dawn on the west bank of the Chao Phraya River.",
+    "coordinates": {
+      "lat": 13.7437,
+      "lng": 100.4881
+    }
+  },
+  {
+    "name": "Wat Pho",
+    "type": "Temple",
+    "district": "Phra Nakhon",
+    "description": "Famous for the Reclining Buddha and traditional massage school.",
+    "coordinates": {
+      "lat": 13.746,
+      "lng": 100.4931
+    }
+  },
+  {
+    "name": "Chatuchak Weekend Market",
+    "type": "Market",
+    "district": "Chatuchak",
+    "description": "One of the largest markets in the world with over 15,000 stalls.",
+    "coordinates": {
+      "lat": 13.8,
+      "lng": 100.55
+    }
+  },
+  {
+    "name": "MBK Center",
+    "type": "Shopping Mall",
+    "district": "Pathum Wan",
+    "description": "Popular mall for electronics, fashion, and souvenirs.",
+    "coordinates": {
+      "lat": 13.744,
+      "lng": 100.5296
+    }
+  },
+  {
+    "name": "Jim Thompson House",
+    "type": "Museum",
+    "district": "Pathum Wan",
+    "description": "Museum of Thai silk pioneer in a traditional teak house.",
+    "coordinates": {
+      "lat": 13.7506,
+      "lng": 100.5285
+    }
+  },
+  {
+    "name": "Siam Paragon",
+    "type": "Shopping Mall",
+    "district": "Pathum Wan",
+    "description": "Luxury shopping mall with aquarium, cinema, and high-end brands.",
+    "coordinates": {
+      "lat": 13.7462,
+      "lng": 100.5347
+    }
+  },
+  {
+    "name": "Asiatique The Riverfront",
+    "type": "Night Market",
+    "district": "Bang Kho Laem",
+    "description": "Outdoor night market with shops, restaurants, and a Ferris wheel.",
+    "coordinates": {
+      "lat": 13.7057,
+      "lng": 100.5104
+    }
+  },
+  {
+    "name": "Chinatown (Yaowarat)",
+    "type": "Cultural District",
+    "district": "Samphanthawong",
+    "description": "Lively area known for Chinese temples and street food.",
+    "coordinates": {
+      "lat": 13.7396,
+      "lng": 100.5101
+    }
+  },
+  {
+    "name": "Bangkok Art and Culture Centre",
+    "type": "Art Gallery",
+    "district": "Pathum Wan",
+    "description": "Contemporary art exhibitions, performances, and events.",
+    "coordinates": {
+      "lat": 13.7467,
+      "lng": 100.528
+    }
+  },
+  {
+    "name": "Erawan Shrine",
+    "type": "Shrine",
+    "district": "Pathum Wan",
+    "description": "Popular Hindu shrine dedicated to Brahma.",
+    "coordinates": {
+      "lat": 13.7441,
+      "lng": 100.539
+    }
+  },
+  {
+    "name": "Lumphini Park",
+    "type": "Park",
+    "district": "Pathum Wan",
+    "description": "Large public park ideal for jogging and paddle boats.",
+    "coordinates": {
+      "lat": 13.73,
+      "lng": 100.541
+    }
+  },
+  {
+    "name": "Khao San Road",
+    "type": "Tourist Street",
+    "district": "Phra Nakhon",
+    "description": "Backpacker hub with nightlife, food, and budget accommodations.",
+    "coordinates": {
+      "lat": 13.7597,
+      "lng": 100.497
+    }
+  },
+  {
+    "name": "Terminal 21",
+    "type": "Shopping Mall",
+    "district": "Watthana",
+    "description": "Airport-themed shopping mall with floors themed by world cities.",
+    "coordinates": {
+      "lat": 13.7379,
+      "lng": 100.5603
+    }
+  },
+  {
+    "name": "ICONSIAM",
+    "type": "Luxury Mall",
+    "district": "Khlong San",
+    "description": "High-end mall on the river with luxury brands and cultural spaces.",
+    "coordinates": {
+      "lat": 13.7261,
+      "lng": 100.5108
+    }
+  },
+  {
+    "name": "Museum of Siam",
+    "type": "Museum",
+    "district": "Phra Nakhon",
+    "description": "Interactive museum about Thai culture and identity.",
+    "coordinates": {
+      "lat": 13.7442,
+      "lng": 100.4928
+    }
+  },
+  {
+    "name": "Bangkok National Museum",
+    "type": "Museum",
+    "district": "Phra Nakhon",
+    "description": "Thailand's main museum of history and art.",
+    "coordinates": {
+      "lat": 13.759,
+      "lng": 100.4911
+    }
+  },
+  {
+    "name": "Bang Kachao",
+    "type": "Green Space",
+    "district": "Phra Pradaeng",
+    "description": "Lush area known as Bangkok’s 'green lung', ideal for cycling.",
+    "coordinates": {
+      "lat": 13.6858,
+      "lng": 100.5608
+    }
+  },
+  {
+    "name": "King Power Mahanakhon Skywalk",
+    "type": "Viewpoint",
+    "district": "Bang Rak",
+    "description": "Skywalk with panoramic views from Bangkok's tallest building.",
+    "coordinates": {
+      "lat": 13.7265,
+      "lng": 100.5232
+    }
+  }
+]

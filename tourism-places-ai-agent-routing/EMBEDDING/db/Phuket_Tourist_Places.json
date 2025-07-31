@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Patong Beach",
+    "type": "Beach",
+    "district": "Kathu",
+    "description": "Popular beach with vibrant nightlife and water activities.",
+    "coordinates": {
+      "lat": 7.8966,
+      "lng": 98.2966
+    }
+  },
+  {
+    "name": "Big Buddha",
+    "type": "Monument",
+    "district": "Chalong",
+    "description": "Massive Buddha statue with panoramic views of Phuket.",
+    "coordinates": {
+      "lat": 7.8279,
+      "lng": 98.3126
+    }
+  },
+  {
+    "name": "Phuket Old Town",
+    "type": "Historic Area",
+    "district": "Mueang Phuket",
+    "description": "Area known for Sino-Portuguese architecture and street art.",
+    "coordinates": {
+      "lat": 7.8849,
+      "lng": 98.3884
+    }
+  },
+  {
+    "name": "Wat Chalong",
+    "type": "Temple",
+    "district": "Chalong",
+    "description": "Largest and most important Buddhist temple in Phuket.",
+    "coordinates": {
+      "lat": 7.8443,
+      "lng": 98.3381
+    }
+  },
+  {
+    "name": "Phuket FantaSea",
+    "type": "Theme Park",
+    "district": "Kamala",
+    "description": "Cultural theme park with shows and dining.",
+    "coordinates": {
+      "lat": 7.9496,
+      "lng": 98.2807
+    }
+  },
+  {
+    "name": "Promthep Cape",
+    "type": "Scenic Viewpoint",
+    "district": "Rawai",
+    "description": "Famous sunset viewpoint at the southern tip of Phuket.",
+    "coordinates": {
+      "lat": 7.7606,
+      "lng": 98.3034
+    }
+  },
+  {
+    "name": "Kata Beach",
+    "type": "Beach",
+    "district": "Karon",
+    "description": "Scenic beach known for surfing and family-friendly environment.",
+    "coordinates": {
+      "lat": 7.821,
+      "lng": 98.2965
+    }
+  },
+  {
+    "name": "Karon Viewpoint",
+    "type": "Scenic Viewpoint",
+    "district": "Karon",
+    "description": "Viewpoint offering panoramic views of Kata, Karon, and Kata Noi beaches.",
+    "coordinates": {
+      "lat": 7.8058,
+      "lng": 98.3044
+    }
+  },
+  {
+    "name": "Nai Harn Beach",
+    "type": "Beach",
+    "district": "Rawai",
+    "description": "Secluded beach popular among locals and tourists alike.",
+    "coordinates": {
+      "lat": 7.7831,
+      "lng": 98.3031
+    }
+  },
+  {
+    "name": "Phuket Aquarium",
+    "type": "Aquarium",
+    "district": "Cape Panwa",
+    "description": "Aquarium with local marine life and conservation info.",
+    "coordinates": {
+      "lat": 7.8283,
+      "lng": 98.4304
+    }
+  },
+  {
+    "name": "Bangla Road",
+    "type": "Nightlife",
+    "district": "Patong",
+    "description": "Famous nightlife street in Patong Beach.",
+    "coordinates": {
+      "lat": 7.896,
+      "lng": 98.296
+    }
+  },
+  {
+    "name": "Freedom Beach",
+    "type": "Beach",
+    "district": "Patong",
+    "description": "Secluded beach accessible by boat or hike.",
+    "coordinates": {
+      "lat": 7.8795,
+      "lng": 98.2859
+    }
+  },
+  {
+    "name": "Surin Beach",
+    "type": "Beach",
+    "district": "Cherng Talay",
+    "description": "Upscale beach with clear waters and nearby resorts.",
+    "coordinates": {
+      "lat": 7.9792,
+      "lng": 98.2757
+    }
+  },
+  {
+    "name": "Phuket Trickeye Museum",
+    "type": "Museum",
+    "district": "Phuket Town",
+    "description": "Interactive 3D art museum with optical illusions.",
+    "coordinates": {
+      "lat": 7.8807,
+      "lng": 98.3892
+    }
+  },
+  {
+    "name": "Laem Singh Viewpoint",
+    "type": "Scenic Viewpoint",
+    "district": "Kamala",
+    "description": "Hidden viewpoint overlooking Laem Singh Beach.",
+    "coordinates": {
+      "lat": 7.9665,
+      "lng": 98.2771
+    }
+  },
+  {
+    "name": "Jungceylon Shopping Center",
+    "type": "Shopping Mall",
+    "district": "Patong",
+    "description": "Large shopping complex in the heart of Patong.",
+    "coordinates": {
+      "lat": 7.8914,
+      "lng": 98.2953
+    }
+  },
+  {
+    "name": "Phuket Elephant Sanctuary",
+    "type": "Sanctuary",
+    "district": "Paklok",
+    "description": "Ethical elephant sanctuary for retired elephants.",
+    "coordinates": {
+      "lat": 8.0181,
+      "lng": 98.4262
+    }
+  },
+  {
+    "name": "Tiger Kingdom Phuket",
+    "type": "Zoo",
+    "district": "Kathu",
+    "description": "Tiger park where visitors can interact with tigers.",
+    "coordinates": {
+      "lat": 7.9191,
+      "lng": 98.3316
+    }
+  },
+  {
+    "name": "Baan Teelanka (Upside Down House)",
+    "type": "Attraction",
+    "district": "Koh Kaew",
+    "description": "Fun house with an upside-down design and maze garden.",
+    "coordinates": {
+      "lat": 7.9331,
+      "lng": 98.3852
+    }
+  },
+  {
+    "name": "Khao Rang Viewpoint",
+    "type": "Scenic Viewpoint",
+    "district": "Phuket Town",
+    "description": "Popular hilltop viewpoint with city views and monkeys.",
+    "coordinates": {
+      "lat": 7.8881,
+      "lng": 98.3762
+    }
+  }
+]

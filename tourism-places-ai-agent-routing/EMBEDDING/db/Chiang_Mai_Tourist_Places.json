@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Wat Phra That Doi Suthep",
+    "type": "Temple",
+    "district": "Mueang Chiang Mai",
+    "description": "Iconic hilltop temple with city views.",
+    "coordinates": {
+      "lat": 18.8049,
+      "lng": 98.9215
+    }
+  },
+  {
+    "name": "Chiang Mai Night Bazaar",
+    "type": "Market",
+    "district": "Mueang Chiang Mai",
+    "description": "Famous night market with souvenirs, food, and handicrafts.",
+    "coordinates": {
+      "lat": 18.7878,
+      "lng": 98.9986
+    }
+  },
+  {
+    "name": "Doi Inthanon National Park",
+    "type": "Nature",
+    "district": "Chom Thong",
+    "description": "Thailand's highest peak with waterfalls and trails.",
+    "coordinates": {
+      "lat": 18.5883,
+      "lng": 98.4886
+    }
+  },
+  {
+    "name": "Chiang Mai Zoo",
+    "type": "Zoo",
+    "district": "Mueang Chiang Mai",
+    "description": "Large zoo with a panda house and aquarium.",
+    "coordinates": {
+      "lat": 18.8056,
+      "lng": 98.9443
+    }
+  },
+  {
+    "name": "Chiang Mai Old City",
+    "type": "Historic Area",
+    "district": "Mueang Chiang Mai",
+    "description": "Walled and moated area with temples and cafes.",
+    "coordinates": {
+      "lat": 18.7889,
+      "lng": 98.9933
+    }
+  },
+  {
+    "name": "Wat Chedi Luang",
+    "type": "Temple",
+    "district": "Mueang Chiang Mai",
+    "description": "Historic temple with a partially ruined Lanna-style chedi.",
+    "coordinates": {
+      "lat": 18.7869,
+      "lng": 98.9861
+    }
+  },
+  {
+    "name": "Wat Phra Singh",
+    "type": "Temple",
+    "district": "Mueang Chiang Mai",
+    "description": "14th-century temple known for classic Lanna architecture.",
+    "coordinates": {
+      "lat": 18.7889,
+      "lng": 98.9817
+    }
+  },
+  {
+    "name": "Elephant Nature Park",
+    "type": "Wildlife Sanctuary",
+    "district": "Mae Taeng",
+    "description": "Rescue and rehabilitation center for elephants.",
+    "coordinates": {
+      "lat": 18.9331,
+      "lng": 99.1465
+    }
+  },
+  {
+    "name": "Bua Thong Waterfalls (Sticky Waterfalls)",
+    "type": "Waterfall",
+    "district": "Mae Taeng",
+    "description": "Unique limestone waterfall you can climb.",
+    "coordinates": {
+      "lat": 19.0363,
+      "lng": 99.0223
+    }
+  },
+  {
+    "name": "Art in Paradise Chiang Mai",
+    "type": "Museum",
+    "district": "Mueang Chiang Mai",
+    "description": "Interactive 3D art museum for fun photos.",
+    "coordinates": {
+      "lat": 18.7792,
+      "lng": 99.0001
+    }
+  },
+  {
+    "name": "Chiang Mai Night Safari",
+    "type": "Zoo",
+    "district": "Hang Dong",
+    "description": "Nocturnal zoo with tram rides and animal shows.",
+    "coordinates": {
+      "lat": 18.7348,
+      "lng": 98.9245
+    }
+  },
+  {
+    "name": "Royal Park Rajapruek",
+    "type": "Botanical Garden",
+    "district": "Mueang Chiang Mai",
+    "description": "Beautiful gardens and Thai architecture.",
+    "coordinates": {
+      "lat": 18.7625,
+      "lng": 98.9144
+    }
+  },
+  {
+    "name": "Nimmanhaemin Road",
+    "type": "Shopping Street",
+    "district": "Mueang Chiang Mai",
+    "description": "Trendy street with cafes, boutiques, and galleries.",
+    "coordinates": {
+      "lat": 18.796,
+      "lng": 98.969
+    }
+  },
+  {
+    "name": "Wat Umong",
+    "type": "Temple",
+    "district": "Mueang Chiang Mai",
+    "description": "Forest temple with tunnels and ancient chedi.",
+    "coordinates": {
+      "lat": 18.7811,
+      "lng": 98.945
+    }
+  },
+  {
+    "name": "Tha Phae Gate",
+    "type": "Historic Site",
+    "district": "Mueang Chiang Mai",
+    "description": "Main eastern gate of the old city and tourist hub.",
+    "coordinates": {
+      "lat": 18.7876,
+      "lng": 98.9932
+    }
+  },
+  {
+    "name": "Chiang Mai National Museum",
+    "type": "Museum",
+    "district": "Mueang Chiang Mai",
+    "description": "Museum about northern Thai culture and history.",
+    "coordinates": {
+      "lat": 18.8103,
+      "lng": 98.9712
+    }
+  },
+  {
+    "name": "Huay Tung Tao Lake",
+    "type": "Lake",
+    "district": "Mueang Chiang Mai",
+    "description": "Leisure area with lakeside huts and mountain views.",
+    "coordinates": {
+      "lat": 18.8606,
+      "lng": 98.9454
+    }
+  },
+  {
+    "name": "Mae Sa Elephant Camp",
+    "type": "Elephant Camp",
+    "district": "Mae Rim",
+    "description": "Elephant shows and rides in natural setting.",
+    "coordinates": {
+      "lat": 18.9037,
+      "lng": 98.8912
+    }
+  },
+  {
+    "name": "Queen Sirikit Botanic Garden",
+    "type": "Botanical Garden",
+    "district": "Mae Rim",
+    "description": "Large garden with canopy walks and greenhouses.",
+    "coordinates": {
+      "lat": 18.9243,
+      "lng": 98.8648
+    }
+  },
+  {
+    "name": "Mon Cham",
+    "type": "Scenic Viewpoint",
+    "district": "Mae Rim",
+    "description": "Mountain viewpoint with flower fields and camping.",
+    "coordinates": {
+      "lat": 18.9338,
+      "lng": 98.7902
+    }
+  }
+]
