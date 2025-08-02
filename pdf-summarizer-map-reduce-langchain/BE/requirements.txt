@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-openai
+openai
+pypdf
+python-dotenv
+python-multipart
