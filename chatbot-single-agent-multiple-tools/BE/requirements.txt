@@ -1,0 +1,8 @@
+fastapi
+pydantic
+uvicorn
+openai
+pymilvus
+sentence-transformers
+python-dotenv
+pandas
