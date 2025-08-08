@@ -1,5 +1,0 @@
-pdfplumber
-pandas
-python-dotenv
-sentence-transformers
-pymilvus
