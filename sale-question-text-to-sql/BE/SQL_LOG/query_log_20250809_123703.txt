@@ -1,0 +1,3 @@
+SELECT SUM(o."QuantityOrdered" * p."Price") AS "TotalRevenue"
+FROM orders o
+JOIN products p ON o."ProductID" = p."ProductID"

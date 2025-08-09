@@ -1,0 +1,6 @@
+SELECT p."ProductID", p."ProductName", SUM(o."QuantityOrdered" * p."Price") AS "TotalRevenue"
+FROM orders o
+JOIN products p ON o."ProductID" = p."ProductID"
+GROUP BY p."ProductID", p."ProductName"
+ORDER BY "TotalRevenue" DESC
+LIMIT 5;

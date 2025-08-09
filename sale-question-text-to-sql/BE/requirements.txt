@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+sqlalchemy
+openpyxl
+langchain
+langchain-openai
+langchain-community
+openai
+python-dotenv
+pydantic
