@@ -1,0 +1,6 @@
+SELECT "customer"."cust_id", "customer"."age" 
+FROM "customer" 
+JOIN "transaction_purchase" ON "customer"."cust_id" = "transaction_purchase"."cust_id" 
+JOIN "product_name" ON "transaction_purchase"."product_id" = "product_name"."product_id" 
+WHERE "customer"."age" > 40 AND "product_name"."product_name" = 'Laptop' 
+LIMIT 5;
