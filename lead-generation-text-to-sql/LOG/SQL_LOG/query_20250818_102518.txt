@@ -1,0 +1,1 @@
+SELECT "cust_id", "age" FROM "customer" WHERE "age" > 40 LIMIT 5

@@ -138,9 +138,9 @@ def node_generate_report(state: GraphState):
 
     natural_language_query = "Find customers where " + " and ".join(conditions)
     print(f"Reconstructed NLQ for SQL generation: '{natural_language_query}'")
-    
+
     excel_buffer, sql_buffer = text_to_sql_and_export(natural_language_query, ENGINE)
-    
+
     if excel_buffer and sql_buffer:
         response = f"Success! I have generated a lead"
         print("Final Response: \nSuccess! Report and SQL query generated.")
